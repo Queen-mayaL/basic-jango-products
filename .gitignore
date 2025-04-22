@@ -1,0 +1,4 @@
+Dockerfile
+entrypoint.sh
+wait-for-it.sh
+.dockerignore
